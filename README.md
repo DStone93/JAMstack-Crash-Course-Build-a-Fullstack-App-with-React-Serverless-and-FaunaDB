@@ -1,5 +1,7 @@
 # JAMstack Crash Course - Build a Fullstack App with React, Serverless, and FaunaDB
 
+This Repo was forked from `https://github.com/jamesqquick/JAMstack-Crash-Course-Build-a-Fullstack-App-with-React-Serverless-and-FaunaDB`
+
 This is the source code for the [JAMstack Crash Course video on
 YouTube]. It uses FaunaDB (with GraphQL), Netlify, and React to build
 a fullstack Link Saver application. By the end of the video, you will
